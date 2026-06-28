@@ -2,7 +2,7 @@
 
 ---
 
-## Intoduction I guess
+## Introduction I guess
 ### Here lies my records of what I made public and private
 ### Just some stuffs here
 
@@ -16,8 +16,21 @@
 
 ## Languages I use
 
-### Top Languages Metric
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TahuatauTempeh&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TahuatauTempeh&theme=radical" alt="GitHub Streak" />
+</p>
 
-### Overall Performance Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=TahuatauTempeh&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TahuatauTempeh&theme=radical&column=7" alt="GitHub Trophy" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahuatauTempeh&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
+
+---
+
+## A Maze Thing
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TahuatauTempeh/TahuatauTempeh/output/github-contribution-grid-snake.svg" alt="Contribution Grid" />
+</p>
