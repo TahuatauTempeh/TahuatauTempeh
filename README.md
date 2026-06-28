@@ -28,5 +28,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahuatauTempeh&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahuatauTempeh&layout=compact&theme=radical&cache_seconds=1800" alt="Most Used Languages" />
 </p>
