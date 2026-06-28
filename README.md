@@ -16,6 +16,13 @@
 
 ## Languages I use
 
+### Tools Used I Guess
+* **Core Languages:** `Java`, `Python`, `C`, `SQL` (MySQL), and a bit of `C++` for some uni works
+* **Tools & Environment:** MySQL Workbench, Beekeeper Studio, Cisco Packet Tracer, Visual Studio Code, and Apache Netbeans
+
+---
+
+## Metrics Overview
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TahuatauTempeh&theme=radical" alt="GitHub Streak" />
 </p>
