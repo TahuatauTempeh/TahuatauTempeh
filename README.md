@@ -23,10 +23,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahuatauTempeh&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
-
----
-
-## A Maze Thing
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TahuatauTempeh/TahuatauTempeh/output/github-contribution-grid-snake.svg" alt="Contribution Grid" />
-</p>
