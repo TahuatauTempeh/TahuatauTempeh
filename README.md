@@ -1,16 +1,23 @@
-## Hi there 👋
+## Greetings fellow humans
 
-<!--
-**TahuatauTempeh/TahuatauTempeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Intoduction I guess
+### Here lies my records of what I made public and private
+### Just some stuffs here
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Current Projects that I'm working on
+*    **Active Projects:** I guess I'm not currently doing any major projects. Hopefully I'll have an idea soon.
+*    **Off Screen:** I do stuff
+
+---
+
+## Languages I use
+
+### Top Languages Metric
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TahuatauTempeh&layout=compact&theme=radical)
+
+### Overall Performance Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=TahuatauTempeh&show_icons=true&theme=radical)
