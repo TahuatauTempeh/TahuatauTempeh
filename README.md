@@ -21,10 +21,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TahuatauTempeh&theme=radical&column=7" alt="GitHub Trophy" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahuatauTempeh&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
