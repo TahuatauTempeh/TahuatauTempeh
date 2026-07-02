@@ -41,7 +41,7 @@ Here lies my records of what I made public and private. Just some stuffs here.
 ---
 
 ## 🚀 Current Status
-* **Active Projects:** I guess I'm not currently doing any major projects. Hopefully I'll have an idea soon.
+* **Active Projects:** In the process of making a game with some friends. Stay tuned for the progress.
 * **Off Screen:** I do stuff.
 
 ---
